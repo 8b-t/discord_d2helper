@@ -1,0 +1,405 @@
+El - #1         (No recipe)
+> Weapon: +50 AR, +1 Light Radius
+> Armor/Helm/Shield: +1 Light Radius, +15 Defense
+> Character lvl Required: 11
+
+Runewords: Breath of the Dying, Death(L), Fortitude(L), Honor, Malice, Steel, Voice of Reason(L), Wind
+***
+Recipes:
+> 3x El runes = Eld rune
+> Low quality armor + El rune + chipped gem = normal quality armor of the same type used
+---
+Eld - #2        (Eld rune = 3x El runes)
+> Weapon: +75% Damage vs. Undead, +50 Attack Rating vs. Undead
+> Armor/Helm: Lowers Stamina drain by 15%
+> Shield: +7% Blocking
+> Character lvl Required: 11
+
+Runewords: Breath of the Dying, Faith(L), Passion, Principle, Silence, Voice of Reason(L)
+***
+Recipes:
+> 3x Eld runes = Tir rune
+> Low quality weapon + Eld rune + chipped gem = normal quality weapon of the same type used
+---
+Tir - #3        (Tir rune = 3x Eld runes)
+> Weapon: +2 Mana Per Kill
+> Armor/Helm/Shield: +2 Mana Per Kill.
+> Character lvl Required: 13
+
+Runewords: Beast, Crescent Moon, Edge(L), Grief(L), Harmony(L), Honor, Insight(L), Leaf, Nadir, Prudence, Silence, Steel, Strength, Wealth
+***
+Recipes:
+> 3x Tir runes = Nef rune
+> Magic blunt weapon (club, hammer, mace, scepter, wand or staff) + jewel + Tir rune + perfect sapphire = crafted Hit Power weapon.
+> Magic rod (scepter, wand or staff) + jewel + Tir rune + perfect amethyst = crafted Caster weapon.
+---
+Nef - #4        (Nef rune = 3x Tir runes)
+> Weapon: Knockback
+> Armor/Helm/Shield: +30 Defense vs. Missile
+> Character lvl Required: 13
+
+Runewords: Black, Melody, Myth, Nadir, Radiance, Smoke
+***
+Recipes:
+> 3x Nef runes = Eth rune
+> Magic field plate OR exceptional/elite version (sharktooth armor or kraken shell) + jewel + Nef rune + perfect sapphire = crafted Hit Power body armor
+> Magic heavy gloves OR exceptional/elite version (sharkskin gloves or vampirebone gloves) + jewel + Nef rune + perfect ruby = crafted Blood gloves
+> Magic mask OR exceptional/elite version (death mask or demonhead) + jewel + Nef rune + perfect amethyst = crafted Caster helm
+> Magic kite shield OR exceptional/elite version (dragon shield or monarch) + jewel + Nef rune + perfect emerald = crafted Safety shield
+---
+Eth - #5        (Eth rune = 3x Nef runes)
+> Weapon: -25% Target Defense
+> Armor/Helm/Shield: Regenerate Mana 15%
+> Character lvl Required: 15
+
+Runewords: Bramble, Breath of the Dying, Fury, Grief(L), Holy Thunder, Malice, Memory, Obedience(L), Rhyme, Splendor, Stealth, Zephyr
+***
+Recipes:
+> 3x Eth runes = Ith rune
+> Magic gothic shield OR exceptional/elite version (ancient shield or ward) + jewel + Eth rune + perfect sapphire = crafted Hit Power shield
+> Magic light plated boots OR exceptional/elite version (battle boots or mirrored boots) + jewel + Eth rune + perfect ruby = crafted Blood boots
+> Magic small shield OR exceptional/elite version (round shield or luna) + jewel + Eth rune + perfect amethyst = crafted Caster shield
+> Magic breast plate OR exceptional/elite version (cuirass or great hauberk) + jewel + Eth rune + perfect emerald = crafted Safety body armor
+---
+Ith - #6        (Ith rune = 3x Eth runes)
+> Weapon: +9 to Maximum Damage
+> Armor/Helm/Shield: 15% Damage Taken Goes to Mana
+> Character lvl Required: 15
+
+Runewords: Enigma, Harmony(L), Honor, Malice, Radiance, Rain
+***
+Recipes:
+> 3x Ith runes = Tal rune
+> Magic full helm OR exceptional/elite version (basinet or giant conch) + jewel + Ith rune + perfect sapphire = crafted Hit Power helm
+> Magic spiked shield OR exceptional/elite version (barbed shield or blade barrier) + jewel + Ith rune + perfect ruby = crafted Blood shield
+> Magic light belt OR exceptional/elite version (sharkskin belt or vampirefang belt) + jewel + Ith rune + perfect amethyst = crafted Caster belt
+> Magic crown OR exceptional/elite version (grand crown or corona) + jewel + Ith rune + perfect emerald = crafted Safety helm
+---
+Tal - #7        (Tal rune = 3x Ith runes)
+> Weapon: 75 Poison damage over 5 seconds
+> Armor/Helm: +30% Poison Resistance
+> Shield: +35% Poison Resistance
+> Character lvl Required: 17
+
+Runewords: Ancient's Pledge, Edge(L), Holy Thunder, Insight(L), Spirit(L), Stealth, Venom
+***
+Recipes:
+> 3x Tal runes = Ral rune
+> Normal quality unsocketed body armor + Tal rune + Thul rune + perfect topaz = add a RANDOM number of sockets to the body armor
+> Normal quality unsocketed shield + Tal rune + Amn rune + perfect ruby = add a RANDOM number of sockets to the shield
+> Basic unique armor + Tal rune + Shael rune + perfect diamond = upgrade the unique armor's base armor type to its exceptional version
+> Magic heavy belt OR exceptional/elite version (battle belt or troll belt) + jewel + Tal rune + perfect sapphire = crafted Hit Power belt
+> Magic belt OR exceptional/elite version (mesh belt or mithril coil) + jewel + Tal rune + perfect ruby = crafted Blood belt
+> Magic light plate OR exceptional/elite version (mage plate or archon plate) + jewel + Tal rune + perfect amethyst = crafted Caster body armor
+> Magic sash OR exceptional/elite version (demonhide sash or spiderweb sash) + jewel + Tal rune + perfect emerald = crafted Safety belt
+---
+Ral - #8        (Ral rune = 3x Tal runes)
+> Weapon: +5-30 Fire Damage
+> Armor/Helm: +30% Fire Resistance
+> Shield: +35% Fire Resistance
+> Character lvl Required: 19
+
+Runewords: Ancient's Pledge, Bramble, Call To Arms, Enlightenment, Grief(L), Holy Thunder, Insight(L), King's Grace, Leaf, Principle
+***
+Recipes:
+> 3x Ral runes = Ort rune
+> Non-ethereal armor + Ral rune = repair the armor's durability
+> Non-ethereal armor + Ral rune + flawed gem = repair the armor's durability and restore the armor's skill charges
+> Normal quality unsocketed weapon + Ral rune + Amn rune + perfect amethyst = add a RANDOM number of sockets to the weapon
+> Normal quality unsocketed helm + Ral rune + Thul rune + perfect sapphire = add a RANDOM number of sockets to the helm
+> Basic unique weapon + Ral rune + Sol rune + perfect emerald = upgrade the unique weapon's base weapon type to its exceptional version
+> Basic rare armor + Ral rune + Thul rune + perfect amethyst = upgrade the rare armor's base armor type to its exceptional version
+> Magic chain boots OR exceptional/elite version (mesh boots or boneweave boots) + jewel + Ral rune + perfect sapphire = crafted Hit Power boots
+> Magic helm OR exceptional/elite version (casque or armet) + jewel + Ral rune + perfect ruby = crafted Blood helm
+> Magic amulet + jewel + Ral rune + perfect amethyst = crafted Caster amulet
+> Magic gauntlets OR exceptional/elite version (war gauntlets or ogre gauntlets) + jewel + Ral rune + perfect emerald = crafted Safety gloves
+---
+Ort - #9        (Ort rune = 3x Ral runes)
+> Weapon: +1-50 Lightning Damage
+> Armor/Helm: +30% Lightning Resistance
+> Shield: +35% Lightning Resistance
+> Character lvl Required: 21
+
+Runewords: Ancient's Pledge, Death(L), Famine, Holy Thunder, Lore, Passion, Rain, Spirit(L), Zephyr
+***
+Recipes:
+> 3x Ort runes = Thul rune
+> Non-ethereal weapon + Ort rune = repair the weapon's durability
+> Non-ethereal weapon + Ort rune + chipped gem = repair the weapon's durability and restore the weapon's skill charges
+> Basic rare weapon + Ort rune + Amn rune + perfect sapphire = upgrade the rare weapon's base weapon type to its exceptional version
+> Magic chain gloves OR exceptional/elite version (heavy bracers or vambraces) + jewel + Ort rune + perfect sapphire = crafted Hit Power gloves
+> Magic axe + jewel + Ort rune + perfect ruby = crafted Blood weapon
+> Magic leather gloves OR exceptional/elite version (demonhide gloves or bramble mitts) + jewel + Ort rune + perfect amethyst = crafted Caster gloves
+> Magic greaves OR exceptional/elite version (war boots or myrmidon greaves) + jewel + Ort rune + perfect emerald = crafted Safety boots
+---
+Thul - #10      (Thul rune = 3x Ort runes)
+> Weapon: +3-14 Cold Damage (Cold Length 3 seconds)
+> Armor/Helm: +30% Cold Resistance
+> Shield: +35% Cold Resistance
+> Character lvl Required: 23
+
+Runewords: Black, Duress, Heart of the Oak, King's Grace, Obedience(L), Peace, Spirit(L), Treachery
+***
+Recipes:
+> 3x Thul runes + chipped topaz = Amn rune
+> Normal quality unsocketed body armor + Tal rune + Thul rune + perfect topaz = add a RANDOM number of sockets to the body armor
+> Normal quality unsocketed helm + Ral rune + Thul rune + perfect sapphire = add a RANDOM number of sockets to the helm
+> Basic rare armor, a Ral rune + Thul rune + perfect amethyst = upgrade the rare armor's base armor type to its exceptional version
+> Magic amulet + jewel + Thul rune + perfect sapphire = crafted Hit Power amulet
+> Magic amulet + jewel + Thul rune + perfect emerald = crafted Safety amulet
+> Magic plate mail OR exceptional/elite version (templar coat or hellforge plate) + jewel + Thul rune + perfect ruby = crafted Blood body armor
+> Magic boots OR exceptional/elite version (demonhide boots or wyrmhide boots) + jewel + Thul rune + perfect amethyst = crafted Caster boots
+---
+Amn - #11       (Amn rune = 3x Thul runes + chipped topaz)
+> Weapon: 7% Life Stolen Per Hit
+> Armor/Helm/Shield: Attacker takes 14 damage
+> Character lvl Required: 25
+
+Runewords: Call To Arms, Edge(L), Eternity, Hand of Justice, Honor, Ice(L), King's Grace, Lawbringer(L), Myth, Peace, Spirit(L), Strength
+***
+Recipes:
+> 3x Amn runes + chipped amethyst = Sol rune
+> Normal quality unsocketed weapon + Ral rune + Amn rune + perfect amethyst = add a random number of sockets to the weapon
+> Normal quality unsocketed shield + Tal rune + Amn rune + perfect ruby = add a random number of sockets to the shield
+> Basic rare weapon + Ort rune + Amn rune + perfect sapphire = upgrade the rare weapon's base weapon type to its exceptional version
+> Magic ring + jewel + Amn rune + perfect sapphire = crafted Hit Power ring
+> Magic amulet + jewel + Amn rune + perfect ruby = crafted Blood amulet
+> Magic ring + jewel + Amn rune + perfect amethyst = crafted Caster ring
+> Magic ring + jewel + Amn rune + perfect emerald = crafted Safety ring
+---
+Sol - #12       (Sol rune = 3x Amn runes + chipped amethyst)
+> Weapon: +9 to Minimum Damage
+> Armor/Helm/Shield: -7 Damage Taken
+> Character lvl Required: 27
+
+Runewords: Bone, Dragon(L), Enlightenment, Eternity, Fortitude(L), Harmony(L), Honor, Insight(L), Lore, Memory, Radiance
+***
+Recipes:
+> 3x Sol runes + chipped sapphire = Shael rune
+> Basic unique weapon + Ral rune + Sol rune + perfect emerald = upgrade the unique weapon's base weapon type to its exceptional version
+> Magic ring + jewel + Sol rune + perfect ruby = crafted Blood ring
+> Magic spear + jewel + Sol rune + perfect emerald = crafted Safety weapon
+---
+Shael - #13     (Shael rune = 3x Sol runes + chipped sapphire)
+> Weapon: Faster Attack Rate (+20)
+> Armor/Helm: Faster Hit Recovery (+20)
+> Shields: Faster Block Rate (+20)
+> Character lvl Required: 29
+
+Runewords: Crescent Moon, Duress, Ice(L), Melody, Oath(L), Peace, Rhyme, Stone, Treachery
+***
+Recipes:
+> 3x Shael runes + chipped ruby = Dol rune
+> Basic unique armor + Tal rune + Shael rune + perfect diamond = upgrade the unique armor's base armor type to its exceptional version
+---
+Dol - #14       (Dol rune = 3x Shael runes + chipped ruby)
+> Weapon: 25% Chance that Hit Causes Monster to Flee
+> Armor/Helm/Shield: +7 Replenish Life
+> Character lvl Required: 31
+
+Runewords: Chains of Honor, Exile, Fortitude(L), Passion, Silence, Venom, White
+***
+Recipes:
+> 3x Dol runes + chipped emerald = Hel rune
+---
+Hel - #15       (Hel rune = 3x Dol runes + chipped emerald)
+> Weapon: -20% Requirements
+> Armor/Helm/Shield: -15% Requirements
+> Item lvl: 33 Character lvl Required: None
+
+Runewords: Breath of the Dying, Death(L), Doom, Lionheart, Myth, Obedience(L), Rift(L), Silence
+***
+Recipes:
+> 3x Hel runes + chipped diamond = Io rune
+> Socketed item + Hel rune + Scroll of Town Portal = unsocket the socketed item. This DELETES the gems, jewels or runes that were socketed in the item
+---
+Io - #16        (Io rune = 3x Hel runes + chipped diamond)
+> Weapon: +10 Vitality
+> Armor/Helm/Shield: +10 Vitality
+> Character lvl Required: 35
+
+Runewords: Black, Delirium, Dream(L), Memory, Pride(L), White
+***
+Recipes:
+> 3x Io runes + flawed topaz = Lum rune
+---
+Lum - #17       (Lum rune = 3x Io runes + flawed topaz)
+> Weapon: +10 Energy
+> Armor/Helm/Shield: +10 Energy
+> Character lvl Required: 37
+
+Runewords: Beast, Lionheart, Memory, Oath(L), Smoke, Splendor, Stone, Wrath(L)
+***
+Recipes:
+> 3x Lum runes + flawed amethyst = Ko rune
+> Exceptional unique weapon + Lum rune + Pul rune + perfect emerald = upgrade the unique weapon's base weapon type to its elite version. (single-player, open or ladder only)
+---
+Ko - #18        (Ko rune = 3x Lum runes + flawed amethyst)
+> Weapon: +10 Dexterity
+> Armor/Helm/Shield: +10 Dexterity
+> Character lvl Required: 39
+
+Runewords: Destruction(L), Harmony(L), Heart of the Oak, Lawbringer(L), Melody, Obedience(L), Rift(L), Sanctuary, Voice of Reason(L), Wealth
+***
+Recipes:
+> 3x Ko runes + flawed sapphire = Fal rune
+> Exceptional unique armor + Ko rune + Lem rune + perfect diamond = upgrade the unique armor's base weapon type to its elite version. (single-player, open or ladder only)
+> Exceptional rare armor + Ko rune + Pul rune + perfect amethyst = upgrade the rare armor's base armor type to its elite version
+---
+Fal - #19       (Fal rune = 3x Ko runes + flawed sapphire)
+> Weapon: +10 Strength
+> Armor/Helm/Shield: +10 Strength
+> Character lvl Required: 41
+
+Runewords: Chaos, Famine, Gloom, Kingslayer, Lionheart, Obedience(L)
+***
+Recipes:
+> 3x Fal runes + flawed ruby = Lem rune
+> Exceptional rare weapon + Fal rune + Um rune + perfect sapphire = upgrade the rare weapon's base weapon type to its elite version
+---
+Lem - #20       (Lem rune = 3x Fal runes + flawed ruby)
+> Weapon: +75% Extra Gold from Monsters
+> Armor/Helm/Shield: +50% Extra Gold from Monsters
+> Character lvl Required: 43
+
+Runewords: Delirium, Faith(L), Lawbringer(L), Passion, Rift(L), Treachery, Voice of Reason(L), Wealth
+***
+Recipes:
+> 3x Lem runes + flawed emerald = Pul rune
+> Exceptional unique armor + Ko rune + Lem rune + perfect diamond = upgrade the unique armor's base type to its elite version. (single-player, open or ladder only)
+---
+Pul - #21       (Pul rune = 3x Lem runes + flawed emerald)
+> Weapon: +75% Damage to Demons, +100 AR against Demons
+> Armor/Helm/Shield:+30% Defense
+> Character lvl Required: 45
+
+Runewords: Dream(L), Enlightenment, Gloom, Heart of the Oak, Oath(L), Stone, Wrath(L)
+***
+Recipes:
+> 2x Pul runes + flawed diamond = Um rune
+> Exceptional unique weapon + Lum rune + Pul rune + perfect emerald = upgrade the unique weapon's base weapon type to its elite version. (single-player, open or ladder only)
+> Exceptional rare armor + Ko rune + Pul rune + perfect amethyst = upgrade the rare armor's base armor type to its elite version
+---
+Um - #22        (Um rune = 2x Pul runes + flawed diamond)
+> Weapon: 25% Chance of Open Wounds
+> Armor/Helm: +15% Resist All
+> Shields: +22% Resist All
+> Character lvl Required: 47
+
+Runewords: Beast, Bone, Chaos, Chains of Honor, Crescent Moon, Doom, Duress, Gloom, Kingslayer, Stone
+***
+Recipes:
+> 2x Um runes + regular topaz = Mal rune
+> Exceptional rare weapon + Fal rune + Um rune + perfect sapphire = upgrade the rare weapon's base weapon type to its elite version
+---
+Mal - #23       (Mal rune = 2x Um runes + regular topaz)
+> Weapon: Prevent Monster Healing
+> Armor/Helm/Shield: Reduce Magic Damage by 7
+> Character lvl Required: 49
+
+Runewords: Beast, Brand(L), Call To Arms, Grief(L), Infinity(L), Kingslayer, Last Wish(L), Oath(L), Prudence, Rain, Sanctuary, Venom, Wrath(L)
+***
+Recipes:
+> 2x Mal runes + regular amethyst = Ist rune
+---
+Ist - #24       (Ist rune = 2x Mal runes + regular amethyst)
+> Weapon: +30% Better Chance of Finding Magical Items
+> Armor/Helm/Shield: +25% Better Chance of Finding Magical Items
+> Character lvl Required: 51
+
+Runewords: Call To Arms, Chains of Honor, Delirium, Eternity, Exile, Infinity(L), Silence
+***
+Recipes:
+> 2x Ist runes + regular sapphire = Gul rune
+---
+Gul - #25       (Gul rune = 2x Ist runes + regular sapphire)
+> Weapon: +20% AR
+> Armor/Helm/Shield: +5 to Max Resist Poison
+> Character lvl Required: 53
+
+Runewords: Brand(L), Death(L), Fury, Kingslayer, Principle, Rift(L)
+***
+Recipes:
+> 2x Gul runes + regular ruby = Vex rune
+---
+Vex - #26       (Vex rune = 2x Gul runes + regular ruby)
+> Weapon: 7% Mana Leech
+> Armor/Helm/Shield: +5 to Max Fire Resist
+> Character lvl Required: 55
+
+Runewords: Breath of the Dying, Death(L), Destruction(L), Exile, Heart of the Oak, Phoenix(L), Silence
+***
+Recipes:
+> 2x Vex runes + regular emerald = Ohm rune
+---
+Ohm - #27       (Ohm rune = 2x Vex runes + regular emerald)
+> Weapon: +50% Damage
+> Armor/Helm/Shield: +5 to Max. Resist Cold
+> Character lvl Required: 57
+
+Runewords: Bramble, Call To Arms, Chaos, Doom, Exile, Faith(L), Famine
+***
+Recipes:
+> 2x Ohm runes + regular diamond = Lo rune
+---
+Lo - #28        (Lo rune = 2x Ohm runes + regular diamond)
+> Weapon: 20% Chance of Deadly Strike
+> Armor/Helm/Shield: +5 to Max. Resist Lightning
+> Character lvl Required: 59
+
+Runewords: Brand(L), Destruction(L), Doom, Dragon(L), Fortitude(L), Grief(L), Hand of Justice, Ice(L), Phoenix(L), Pride(L)
+***
+Recipes:
+> 2x Lo runes + flawless topaz = Sur rune
+---
+Sur - #29       (Sur rune = 2x Lo runes + flawless topaz)
+> Weapon: 20% Chance of Hit Blinds Target
+> Armor/Helm: +5% total Mana
+> Shields: +50 Mana
+> Character lvl Required: 61
+
+Runewords: Bramble, Dragon(L), Eternity, Hand of Justice, Last Wish(L), Pride(L), Wind
+***
+Recipes:
+> 2x Sur runes + flawless amethyst = Ber rune
+---
+Ber - #30       (Ber rune = 2x Sur runes + flawless amethyst)
+> Weapon: 20% Chance of Crushing Blow
+> Armor/Helm/Shield: Damage Reduced by 8%
+> Character lvl Required: 63
+
+Runewords: Beast, Chains of Honor, Destruction(L), Enigma, Eternity, Infinity(L), Last Wish(L), Wrath(L)
+***
+Recipes:
+> 2x Ber runes + flawless sapphire = Jah rune
+---
+Jah - #31       (Jah rune = 2x Ber runes + flawless sapphire)
+> Weapon: Ignores Target Defense
+> Armor/Helm: +5% of total Hit Points
+> Shields: +50 Hit Points
+> Character lvl Required: 65
+
+Runewords: Brand(L), Destruction(L), Dream(L), Enigma, Faith(L), Famine, Fury, Ice(L), Last Wish(L), Phoenix(L)
+***
+Recipes:
+> 2x Jah runes + flawless ruby = Cham rune
+---
+Cham - #32      (Cham rune = 2x Jah runes + flawless ruby)
+> Weapon: 32% Chance of Hit Freezing Target for 3 seconds
+> Armor/Helm/Shield: Cannot be Frozen
+> Character lvl Required: 67
+
+Runewords: Doom, Hand of Justice, Pride(L)
+***
+Recipes:
+> 2x Cham runes + flawless emerald = Zod rune
+---
+Zod - #33       (Zod rune = 2x Cham runes + flawless emerald)
+> Weapon: Indestructible
+> Armor/Helm/Shield: Indestructible
+> Character lvl Required: 69
+
+Runewords: Breath of the Dying
+***
+Recipes:
+> None

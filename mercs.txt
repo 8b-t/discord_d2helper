@@ -1,0 +1,37 @@
+Act 1: "Rogue Scouts"
+
+> *Cold* skills: **Cold Arrow**, **Inner Sight**
+> *Fire* skills: **Fire Arrow**, **Inner Sight**
+
+```Equipment: Armor, Helms, Bows (no Crossbows or Amazon-only bows)```
+---
+Act 2: "Desert Mercenaries"
+
+> Skill: **Jab attack**
+Auras based on game difficulty level:
+> Normal:
+> *Combat* - **Prayer**, *Defense* - **Defiance**, *Offense* - **Blessed Aim**
+> Nightmare:
+> *Combat* - **Thorns**, *Defense* - **Holy Freeze**, *Offense* - **Might**
+> Hell:
+> *Combat* - **Prayer**, *Defense* - **Defiance**, *Offense* - **Blessed Aim**
+
+```Equipment: Armor, Helms, Spears, Polearms, Javelins (Only melee attacks)```
+---
+Act 3: "Iron Wolves"
+
+> *Fire* skills: **Inferno** or **Fireball**
+> *Cold* skills: **Glacial Spike**, **Ice Blast** and **Frozen Armor**
+> *Lightning* skills: **Charged Bolt** and **Lightning Bolt**
+
+```Equipment: Armor, Helms, Shields and Swords(preferably with spell-caster bonuses)```
+---
+Act 4
+
+There are **NO** Mercenaries available for hire in Act Four
+---
+Act 5: "Barbarians"
+
+> Skills: **Bash**, **Stun**
+
+```Equipment: Armor, Helms, Barbarian Class-specific Helms, One Sword (CAN'T dual wield)```
