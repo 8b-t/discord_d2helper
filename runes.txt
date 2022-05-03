@@ -3,7 +3,7 @@ El - #1         (No recipe)
 > Armor/Helm/Shield: +1 Light Radius, +15 Defense
 > Character lvl Required: 11
 
-Runewords: Breath of the Dying, Death(L), Fortitude(L), Honor, Malice, Steel, Voice of Reason(L), Wind
+Runewords: Breath of the Dying, Death(L), Fortitude(L), Honor, Malice, Steel, Unbending Will (D2R), Voice of Reason(L), Wind
 ***
 Recipes:
 > 3x El runes = Eld rune
@@ -15,7 +15,7 @@ Eld - #2        (Eld rune = 3x El runes)
 > Shield: +7% Blocking
 > Character lvl Required: 11
 
-Runewords: Breath of the Dying, Faith(L), Passion, Principle, Silence, Voice of Reason(L)
+Runewords: Breath of the Dying, Faith(L), Passion, Principle, Silence, Unbending Will (D2R), Voice of Reason(L), Wisdom (D2R)
 ***
 Recipes:
 > 3x Eld runes = Tir rune
@@ -38,7 +38,7 @@ Nef - #4        (Nef rune = 3x Tir runes)
 > Armor/Helm/Shield: +30 Defense vs. Missile
 > Character lvl Required: 13
 
-Runewords: Black, Melody, Myth, Nadir, Radiance, Smoke
+Runewords: Black, Flickering Flame (D2R), Melody, Myth, Nadir, Obsession (D2R), Radiance, Smoke
 ***
 Recipes:
 > 3x Nef runes = Eth rune
@@ -66,7 +66,7 @@ Ith - #6        (Ith rune = 3x Eth runes)
 > Armor/Helm/Shield: 15% Damage Taken Goes to Mana
 > Character lvl Required: 15
 
-Runewords: Enigma, Harmony(L), Honor, Malice, Radiance, Rain
+Runewords: Enigma, Harmony(L), Honor, Malice, Mist (D2R), Radiance, Rain, Unbending Will (D2R), Wisdom (D2R)
 ***
 Recipes:
 > 3x Ith runes = Tal rune
@@ -81,7 +81,7 @@ Tal - #7        (Tal rune = 3x Ith runes)
 > Shield: +35% Poison Resistance
 > Character lvl Required: 17
 
-Runewords: Ancient's Pledge, Edge(L), Holy Thunder, Insight(L), Spirit(L), Stealth, Venom
+Runewords: Ancient's Pledge, Edge(L), Holy Thunder, Insight(L), Pattern (D2R), Spirit(L), Stealth, Venom
 ***
 Recipes:
 > 3x Tal runes = Ral rune
@@ -120,7 +120,7 @@ Ort - #9        (Ort rune = 3x Ral runes)
 > Shield: +35% Lightning Resistance
 > Character lvl Required: 21
 
-Runewords: Ancient's Pledge, Death(L), Famine, Holy Thunder, Lore, Passion, Rain, Spirit(L), Zephyr
+Runewords: Ancient's Pledge, Death(L), Famine, Holy Thunder, Lore, Passion, Pattern (D2R), Rain, Spirit(L), Zephyr
 ***
 Recipes:
 > 3x Ort runes = Thul rune
@@ -138,7 +138,7 @@ Thul - #10      (Thul rune = 3x Ort runes)
 > Shield: +35% Cold Resistance
 > Character lvl Required: 23
 
-Runewords: Black, Duress, Heart of the Oak, King's Grace, Obedience(L), Peace, Spirit(L), Treachery
+Runewords: Black, Duress, Heart of the Oak, King's Grace, Mist (D2R), Obedience(L), Pattern (D2R), Peace, Spirit(L), Treachery
 ***
 Recipes:
 > 3x Thul runes + chipped topaz = Amn rune
@@ -186,7 +186,7 @@ Shael - #13     (Shael rune = 3x Sol runes + chipped sapphire)
 > Shields: Faster Block Rate (+20)
 > Character lvl Required: 29
 
-Runewords: Crescent Moon, Duress, Ice(L), Melody, Oath(L), Peace, Rhyme, Stone, Treachery
+Runewords: Crescent Moon, Duress, Ice(L), Melody, Mist (D2R), Oath(L), Peace, Plague (D2R), Rhyme, Stone, Treachery
 ***
 Recipes:
 > 3x Shael runes + chipped ruby = Dol rune
@@ -207,7 +207,7 @@ Hel - #15       (Hel rune = 3x Dol runes + chipped emerald)
 > Armor/Helm/Shield: -15% Requirements
 > Item lvl: 33 Character lvl Required: None
 
-Runewords: Breath of the Dying, Death(L), Doom, Lionheart, Myth, Obedience(L), Rift(L), Silence
+Runewords: Breath of the Dying, Death(L), Doom, Lionheart, Myth, Obedience(L), Rift(L), Silence, Unbending Will (D2R)
 ***
 Recipes:
 > 3x Hel runes + chipped diamond = Io rune
@@ -218,7 +218,7 @@ Io - #16        (Io rune = 3x Hel runes + chipped diamond)
 > Armor/Helm/Shield: +10 Vitality
 > Character lvl Required: 35
 
-Runewords: Black, Delirium, Dream(L), Memory, Pride(L), White
+Runewords: Black, Delirium, Dream(L), Memory, Obsession (D2R), Pride(L), Unbending Will (D2R), White
 ***
 Recipes:
 > 3x Io runes + flawed topaz = Lum rune
@@ -228,7 +228,7 @@ Lum - #17       (Lum rune = 3x Io runes + flawed topaz)
 > Armor/Helm/Shield: +10 Energy
 > Character lvl Required: 37
 
-Runewords: Beast, Lionheart, Memory, Oath(L), Smoke, Splendor, Stone, Wrath(L)
+Runewords: Beast, Lionheart, Memory, Oath(L), Obsession (D2R), Smoke, Splendor, Stone, Wrath(L)
 ***
 Recipes:
 > 3x Lum runes + flawed amethyst = Ko rune
@@ -251,7 +251,7 @@ Fal - #19       (Fal rune = 3x Ko runes + flawed sapphire)
 > Armor/Helm/Shield: +10 Strength
 > Character lvl Required: 41
 
-Runewords: Chaos, Famine, Gloom, Kingslayer, Lionheart, Obedience(L)
+Runewords: Chaos, Famine, Gloom, Kingslayer, Lionheart, Obedience(L), Unbending Will (D2R)
 ***
 Recipes:
 > 3x Fal runes + flawed ruby = Lem rune
@@ -262,7 +262,7 @@ Lem - #20       (Lem rune = 3x Fal runes + flawed ruby)
 > Armor/Helm/Shield: +50% Extra Gold from Monsters
 > Character lvl Required: 43
 
-Runewords: Delirium, Faith(L), Lawbringer(L), Passion, Rift(L), Treachery, Voice of Reason(L), Wealth
+Runewords: Delirium, Faith(L), Lawbringer(L), Obsession (D2R), Passion, Rift(L), Treachery, Voice of Reason(L), Wealth
 ***
 Recipes:
 > 3x Lem runes + flawed emerald = Pul rune
@@ -273,7 +273,7 @@ Pul - #21       (Pul rune = 3x Lem runes + flawed emerald)
 > Armor/Helm/Shield:+30% Defense
 > Character lvl Required: 45
 
-Runewords: Dream(L), Enlightenment, Gloom, Heart of the Oak, Oath(L), Stone, Wrath(L)
+Runewords: Dream(L), Enlightenment, Flickering Flame (D2R), Gloom, Heart of the Oak, Oath(L), Stone, Wisdom (D2R), Wrath(L)
 ***
 Recipes:
 > 2x Pul runes + flawed diamond = Um rune
@@ -286,7 +286,7 @@ Um - #22        (Um rune = 2x Pul runes + flawed diamond)
 > Shields: +22% Resist All
 > Character lvl Required: 47
 
-Runewords: Beast, Bone, Chaos, Chains of Honor, Crescent Moon, Doom, Duress, Gloom, Kingslayer, Stone
+Runewords: Beast, Bone, Chaos, Chains of Honor, Crescent Moon, Doom, Duress, Gloom, Kingslayer, Plague (D2R), Stone
 ***
 Recipes:
 > 2x Um runes + regular topaz = Mal rune
@@ -307,7 +307,7 @@ Ist - #24       (Ist rune = 2x Mal runes + regular amethyst)
 > Armor/Helm/Shield: +25% Better Chance of Finding Magical Items
 > Character lvl Required: 51
 
-Runewords: Call To Arms, Chains of Honor, Delirium, Eternity, Exile, Infinity(L), Silence
+Runewords: Call To Arms, Chains of Honor, Delirium, Eternity, Exile, Infinity(L), Obsession (D2R), Silence
 ***
 Recipes:
 > 2x Ist runes + regular sapphire = Gul rune
@@ -317,7 +317,7 @@ Gul - #25       (Gul rune = 2x Ist runes + regular sapphire)
 > Armor/Helm/Shield: +5 to Max Resist Poison
 > Character lvl Required: 53
 
-Runewords: Brand(L), Death(L), Fury, Kingslayer, Principle, Rift(L)
+Runewords: Brand(L), Death(L), Fury, Kingslayer, Mist (D2R), Principle, Rift(L)
 ***
 Recipes:
 > 2x Gul runes + regular ruby = Vex rune
@@ -327,7 +327,7 @@ Vex - #26       (Vex rune = 2x Gul runes + regular ruby)
 > Armor/Helm/Shield: +5 to Max Fire Resist
 > Character lvl Required: 55
 
-Runewords: Breath of the Dying, Death(L), Destruction(L), Exile, Heart of the Oak, Phoenix(L), Silence
+Runewords: Breath of the Dying, Death(L), Destruction(L), Exile, Flickering Flame (D2R), Heart of the Oak, Phoenix(L), Silence
 ***
 Recipes:
 > 2x Vex runes + regular emerald = Ohm rune
@@ -389,7 +389,7 @@ Cham - #32      (Cham rune = 2x Jah runes + flawless ruby)
 > Armor/Helm/Shield: Cannot be Frozen
 > Character lvl Required: 67
 
-Runewords: Doom, Hand of Justice, Pride(L)
+Runewords: Doom, Hand of Justice, Mist (D2R), Plague (D2R), Pride(L)
 ***
 Recipes:
 > 2x Cham runes + flawless emerald = Zod rune
@@ -399,7 +399,7 @@ Zod - #33       (Zod rune = 2x Cham runes + flawless emerald)
 > Armor/Helm/Shield: Indestructible
 > Character lvl Required: 69
 
-Runewords: Breath of the Dying
+Runewords: Breath of the Dying, Obsession (D2R)
 ***
 Recipes:
 > None

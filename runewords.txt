@@ -1399,6 +1399,140 @@ Stats:
 > Adds 1-50 lightning damage
 > +25 Defense
 ---
+Flickering Flame (Diablo 2 Resurrected)
+
+Nef (#4) + Pul (#21) + Vex (#26)
+Helms (3 sockets)
+Character lvl Required: 55
+
+Stats:
+> Level 4-8 Resist Fire Aura When Equipped (varies)
+> +3 to Fire Skills
+> -10-15% to Enemy Fire Resistance (varies)
+> +30% Enhanced Defense
+> +30 Defense vs. Missile
+> Adds 3-14 Cold Damage
+> +50-75 to Mana (varies)
+> +5% to Maximum Fire Resist
+> Half Freeze Duration
+> Poison Length Reduced by 50%
+---
+Mist (Diablo 2 Resurrected)
+
+Cham (#32) + Shael (#13) + Gul (#25) + Thul (#10) + Ith (#6)
+Missile Weapons (5 sockets)
+Character lvl Required: 67
+
+Stats:
+> Level 8-12 Concentration Aura When Equipped (varies)
+> +3 to All Skills
+> +20% Increased Attack Speed
+> +100% Piercing Attack
+> +325-375% Enhanced Damage (varies)
+> +9 to Maximum Damage
+> 20% Bonus to Attack Rating
+> Adds 3-14 Cold Damage
+> Freezes Target +3
+> +24 to Vitality
+> All Resistances +40
+---
+Obsession (Diablo 2 Resurrected)
+
+Zod (#33) + Ist (#24) + Lem (#20) + Lum (#17) + Io (#16) + Nef (#4)
+Staff (6 sockets)
+Character lvl Required: 69
+
+Stats:
+> Indestructible
+> 24% Chance to cast level 10 Weaken when struck
+> +4 To All Skills
+> +65% Faster Cast Rate
+> +60% Faster Hit Recovery
+> Knockback
+> +10 To Vitality
+> +10 To Energy
+> Increase Maximum Life 15-25% (varies)
+> Regenerate Mana 15-30% (varies)
+> All Resistances +60-70 (varies)
+> 75% Extra Gold from Monsters
+> 30% Better Chance of Getting Magic Items
+---
+Pattern (Diablo 2 Resurrected)
+
+Tal (#7) + Ort (#9) + Thul (#10)
+Claw (3 sockets)
+Character lvl Required: 23
+
+Stats:
+> +30% Faster Bock Rate
+> +40-80% Enhanced damage (varies)
+> 10% Bonus to Attack Rating
+> Adds 17-62 Fire Damage
+> Adds 1-50 Lightning Damage
+> Adds 3-14 Cold Damage
+> +75 Poison Damage over 5 seconds
+> +6 to Strength
+> +6 to Dexterity
+> All Resistances +15
+---
+Plague (Diablo 2 Resurrected)
+
+Cham (#32) + Shael (#13) + Um (#22)
+Sword, Claw, Dagger (3 sockets)
+Character lvl Required: 67
+
+Stats:
+> 25% Chance to Cast Level 15 Poison Nova On Striking
+> 20% Chance to Cast Level 12 Lower Resist When Struck
+> Level 13-17 Cleansing Aura When Equipped (varies)
+> +1-2 All Skills
+> +20% Increased Attack Speed
+> +220-320% Enhanced Damage (varies)
+> -23% To Enemy Poison Resistance
+> 0.3% (0-29.7) Deadly Strike (Based on Character Level)
+> 25% Chance of Open Wounds
+> Freezes Target +3
+---
+Unbending Will (Diablo 2 Resurrected)
+
+Fal (#19) + Io (#16) + Ith (#6) + Eld (#2) + El (#1) + Hel (#15)
+Sword (6 sockets)
+Character lvl Required: 41
+
+Stats:
+> 18% Chance To Cast Level 18 Taunt On Striking
+> +3 to Combat Skills (Barbarian Only)
+> +20-30% Increased Attack Speed (varies)
+> +300-350% Enhanced Damage
+> +9 to Maximum Damage
+> +50 to Attack Rating
+> +75 Damage to Undead
+> +50 to Attack Rating Against Undead
+> 8-10% Life Stolen Per Hit (varies)
+> Prevent Monster Heal
+> +10 to Strength
+> +10 to Vitality
+> Damage Reduced By 8
+> +1 to Light Radius
+> Requirements -20%
+---
+Wisdom (Diablo 2 Resurrected)
+
+Pul (#21) + Ith (#6) + Eld (#2)
+Helm (3 sockets)
+Character lvl Required: 45
+
+Stats:
+> 33% Piercing Attack
+> +15-25% Bonus to Attack Rating (varies)
+> 4-8% mana stolen per hit (varies)
+> +30% Enhanced Defense
+> +10 Energy
+> Lowers Stamina drain by 15%
+> Cannot Be Frozen
+> +5 mana after each kill
+> 15% damage taken goes to mana
+---
 Build guides and useful information:
 https://d2.maxroll.gg/
 
