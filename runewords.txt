@@ -1533,62 +1533,8 @@ Stats:
 > +5 mana after each kill
 > 15% damage taken goes to mana
 ---
-Build guides and useful information:
-https://d2.maxroll.gg/
+Ladder start tier list:
+https://d2.maxroll.gg/tierlists/ladder-start-tier-list
 
 Cheat Sheet with tons of useful information:
 https://htmlpreview.github.io/?https://github.com/Michaelangel007/d2_cheat_sheet/blob/master/index.html
-
-MrLlamaSC Starter build Tier List:
-```
-
-S Tier:
-    Hammerdin (Paladin -> "Blessed Hammer")
-    Blizzard Sorc (Sorceress -> "Blizzard")
-    Bone Necro *S Tier Solo, A Tier group* (Necromancer -> Bone Spells)
-    Trapsin (Assasin -> Traps)
-    Summoner Necro (Necromancer -> Summoning Spells)
-    Lightning Fury Amazon (Amazon -> "Lightning Fury")
-
-A Tier:
-    Wind Druid (Druid -> "Tornado")
-    Meteorb Sorc (Sorceress -> "Frozen Orb" and "Meteor")
-    Fire Druid (Druid - > Elemental)
-    Smite Paladin
-    Fire Sorceress
-    Frozen Orb Sorceress
-
-B Tier:
-    Summon Druid *Better in group play*
-    Exploding Arrow Amazon
-    Physical Zealot (Paladin)
-    Frost Maiden (Amazon -> "Freezing arrow")
-    Holy Freeze Zealot (Paladin)
-    Light Sorceress (Sorceress -> Lightning spells)
-    Poison Necromancer
-    Firewall Sorceress
-
-C Tier:
-    Vengeance Paladin
-    Kicksin (Assasin -> "Dragon Talon")
-    Enchantress *C Group, F Solo* (Sorceress -> "Enchant")
-    Frenzy Barbarian
-    Fireclaw Druid
-    Rabies Druid
-    Phoenix Strike Assassin
-    Fury Druid
-    Shout Barb *C Solo, S Group*
-    Nova Sorceress
-
-D Tier:
-    Physical Bowazon (Amazon - Bow and Crossbow skills)
-    Concentrate Barbarian
-    Berserk Barbarian *S Tier late game*
-    Tesladin (Paladin)
-    Bladesin (Assasin)
-
-F Tier:
-    Double Throw Barbarian
-    Whirlwind Assasin
-    Whirlwind Barbarian
-```
